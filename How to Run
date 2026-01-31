@@ -1,0 +1,4 @@
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run preprocessing: `python src/data_preprocessing.py`
+3. Train model: `python src/model_training_logistic.py`
+4. Perform bias audit: `python src/bias_analysis.py`
