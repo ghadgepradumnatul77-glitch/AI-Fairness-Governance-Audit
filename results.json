@@ -1,0 +1,11 @@
+{
+    "model": "Logistic Regression",
+    "accuracy": 0.7943494728221927,
+    "dir": 1.0519727191805723,
+    "risk": 2.531425472694155,
+    "female_before": 0.08214947498455837,
+    "male_before": 0.16276221099372223,
+    "female_after": 0.17585848074921956,
+    "male_after": 0.16717019133937563,
+    "decision": "SAFE TO DEPLOY"
+}
