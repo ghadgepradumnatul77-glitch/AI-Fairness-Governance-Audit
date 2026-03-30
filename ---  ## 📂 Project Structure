@@ -1,0 +1,16 @@
+AI-Fairness-Governance-Audit/
+│
+├── src/
+│ ├── run_pipeline.py
+│ ├── dashboard.py
+│
+├── data/
+│
+├── reports/
+│ └── AI_Governance_Report.pdf
+│
+├── screenshots/
+│ └── dashboard.png
+│
+├── requirements.txt
+├── README.md
